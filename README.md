@@ -8,7 +8,7 @@ Member 2: **_Archit Srivastava_**
 
 Member 3: **_Vanshika Rani_** 
 
-Member 4: **_Jaya_** 
+Member 4: **_Jaya Singh_** 
 
 Member 5: **_Maanya Chauhan_** 
 
