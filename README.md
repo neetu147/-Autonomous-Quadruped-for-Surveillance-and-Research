@@ -1,6 +1,6 @@
 # Autonomous-Quadruped-for-Surveillance-and-Research #
 
-# Team Name: **CodeCrafters** # 
+# Team Name: # **CodeCrafters** 
 
 # Member 1: **_Neetu Raghav_** #
 
